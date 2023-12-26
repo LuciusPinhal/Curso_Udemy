@@ -22,6 +22,7 @@ namespace Basic
 
             Console.WriteLine("Total Balance: " + sum.ToString("F2", CultureInfo.InvariantCulture));
 
+            //por conta do polimorfismo podemos sacar os 10 reais idependende se é uma conta de empresa ou poupaça, onde cada uma tem sua logia de saque
             foreach (Account acc in list)
             {
                 acc.Withdraw(10.0);
