@@ -1,0 +1,12 @@
+Herança ela os filhos herda os compontentes do pai
+Tem o reuso
+
+
+Interface ela complementa (tem um contrato para cumprir)
+
+
+Os dois tem em comum:
+
+polimorfismo
+Relação é um
+Generalização
